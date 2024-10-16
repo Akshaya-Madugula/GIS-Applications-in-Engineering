@@ -7,7 +7,7 @@ Identified bridges surveyed in 2023 but not in 2022.
 
 Feature Engineering:
 Calculated bridge age.
-Converted bridge condition ratings (deck, superstructure, channel) into binary values (Good = 1, Critical = 0).
+Converted bridge condition ratings (deck, superstructure, channel) into binary values (Satisfactory = 1, Unsatisfactory = 0).
 
 Logistic Regression:
 Selected key features: Average Daily Traffic (ADT), Deck Area, Max Span Length, and Age.
