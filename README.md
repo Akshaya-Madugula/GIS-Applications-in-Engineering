@@ -18,7 +18,3 @@ This project analyzes bridge data from Texas for the years 2022 and 2023 using G
 
 ### Visualization:
 - Visualized the results on a map of Texas with distinct color codes for critical (red) and good (green) bridge conditions.
-
-### Files:
-- **Mini Project_AkshayaM.ipynb**: The Jupyter Notebook containing all data processing, model training, prediction, and visualization steps.
-- **Work_Flow.png**: Visual representation of the workflow.
