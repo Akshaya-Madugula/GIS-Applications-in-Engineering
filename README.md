@@ -1,4 +1,3 @@
-Texas Bridge Condition Analysis
 This project analyzes bridge data from Texas for the years 2022 and 2023 using Geographic Information Systems (GIS) techniques and Python programming to predict bridge conditions.
 
 Data Preprocessing:
