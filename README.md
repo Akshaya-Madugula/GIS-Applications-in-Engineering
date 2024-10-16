@@ -17,4 +17,4 @@ This project analyzes bridge data from Texas for the years 2022 and 2023 using G
 - Applied the model to predict conditions for newly surveyed bridges in 2023.
 
 ### Visualization:
-- Visualized the results on a map of Texas with distinct color codes for critical (red) and good (green) bridge conditions.
+- Visualized the results on a map of Texas with distinct color codes for unsatisfactory (red) and satisfactory (green) bridge conditions.
