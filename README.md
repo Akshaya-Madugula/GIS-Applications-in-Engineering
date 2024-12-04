@@ -1,7 +1,7 @@
 # Well Head Protection Area Project
 
 ## 📖 Overview
-This project involves calculating the **Well Head Protection Area** using **Capture Zone Analysis**. The analysis focuses on understanding the area of influence around a specific well based on groundwater flow, transmissivity, and pumping rates.
+This project involves calculating the **Well Head Protection Area** using **Capture Zone Analysis**. The analysis focuses on understanding the area of influence around a specific well based on groundwater flow, transmissivity, and pumping rates. Find the video here : https://youtu.be/4bZZsDr-Uls
 
 The project outputs:
 - A **capture zone polygon** for the selected well.
